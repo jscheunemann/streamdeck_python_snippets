@@ -1,4 +1,4 @@
-#!/usr/bin/env /Users/jason/Documents/Projects/streamdeck_playground/venv/bin/python
+#!/usr/bin/env python
 
 import pyautogui
 import requests
