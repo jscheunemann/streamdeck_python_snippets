@@ -1,6 +1,6 @@
 # streamdeck_python_snippets
 
-### Function: pbcopy_from_website
+### Purpose
 
 This allows users to create a streamdeck button that copies a file hosted on a website and 
 pastes to the focused window. My use case involves creating code templates that I can reuse
