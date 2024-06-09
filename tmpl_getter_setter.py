@@ -26,3 +26,5 @@
             self._var (str): the value of variable
         """
         return self._var
+
+    

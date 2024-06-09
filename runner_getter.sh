@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-template='tmpl_subscribe.py'
+template='tmpl_getter.py'
 
 base='https://raw.githubusercontent.com/jscheunemann/streamdeck_python_snippets/main/'
 document="${base}${template}"
