@@ -5,7 +5,7 @@ SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 source "${SCRIPTPATH}/venv/bin/activate"
 source "${SCRIPTPATH}/.env"
 
-template='tmpl_class.py'
+template="${1}"
 
 document="${SITE_BASE}${template}"
 
