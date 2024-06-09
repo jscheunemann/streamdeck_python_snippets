@@ -15,6 +15,7 @@
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 # -*- coding: utf-8 -*-
+
 """Class Subscribe
 
 Class used to supply a publish/subscribe framework. Allows observers to
